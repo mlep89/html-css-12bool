@@ -1,0 +1,15 @@
+body {
+  font-size: 14px;
+}
+
+.debug .container{
+  background-color: #ffc0cb;
+}
+.debug .container .nested {
+  border: 1px solid white;
+  background-color: #f07f80;
+}
+
+#nest {
+  padding: 5px;
+}
